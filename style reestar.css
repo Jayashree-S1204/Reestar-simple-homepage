@@ -1,0 +1,82 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.two,.three,.four,.five{
+    background-color: transparent;
+    display:inline-block;
+    
+    border:solid black 1px;
+    text-align: center;
+    vertical-align: top;
+   
+}
+.two__button,.three__button,.four__button,.five__button{
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    display: block;
+    margin: 20px auto 0;
+    text-align: center;
+    min-width: 140px;
+}
+.two__title,.three__title,.four__title,.five__title{
+    font-size: 15px;
+}
+.two__img,.three__img,.four__img,.five__img{
+    width: 222px;
+    height: 200px;
+    display: block;
+    
+}
+.one{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+}
+.six{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.six form{
+    display: inline-block;
+}
+.six table{
+    margin: 0 auto;
+    color: white;
+    
+    
+}
+.six table td,
+.six table th{
+    color: white;
+    text-align: center;
+}
+.six__button{
+    background-color: yellow;
+    padding: 10px;
+    display: inline;
+    width: 250px;
+    text-align: center;
+    margin-top: 10px;
+    text-align: center;
+}
+.six__input{
+    text-align: center;
+
+
+}
+.one__desc{
+    color: grey;
+}
